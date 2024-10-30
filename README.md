@@ -12,3 +12,5 @@ Este proyecto utiliza Streamlit para crear una interfaz interactiva en la que lo
 - **Botones interactivos**:
   - `Construir histograma`: Este botón crea un histograma del kilometraje.
   - `Construir gráfico de dispersión`: Este botón genera un gráfico de dispersión que muestra la relación entre el kilometraje y el precio.
+## URL a la página web
+### [enlace](https://proyecto-sprint6-2-t77c.onrender.com/).
